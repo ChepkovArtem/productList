@@ -1,0 +1,122 @@
+[
+  {
+    "title": "item1",
+    "img": "./imgs/phone.png",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. ",
+    "price": "12400",
+    "characteristics" : [
+      {
+        "name": "Модель",
+        "value": "Iphone"
+    },
+      {
+        "name": "Серия",
+        "value": "12"
+      },
+      {
+        "name": "Вес",
+        "value": "140г"
+      }
+    ]
+  },
+  {
+    "title": "item2",
+    "img": "./imgs/phone.png",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. ",
+    "price": "12400",
+    "characteristics" : [
+      {
+        "name": "Модель",
+        "value": "Iphone"
+      },
+      {
+        "name": "Серия",
+        "value": "12"
+      },
+      {
+        "name": "Вес",
+        "value": "140г"
+      }
+    ]
+  },
+  {
+    "title": "item3",
+    "img": "./imgs/phone.png",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. ",
+    "price": "12400",
+    "characteristics" : [
+      {
+        "name": "Модель",
+        "value": "Iphone"
+      },
+      {
+        "name": "Серия",
+        "value": "12"
+      },
+      {
+        "name": "Вес",
+        "value": "140г"
+      }
+    ]
+  },
+  {
+    "title": "item4",
+    "img": "./imgs/phone.png",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. ",
+    "price": "12400",
+    "characteristics" : [
+      {
+        "name": "Модель",
+        "value": "Iphone"
+      },
+      {
+        "name": "Серия",
+        "value": "12"
+      },
+      {
+        "name": "Вес",
+        "value": "140г"
+      }
+    ]
+  },
+  {
+    "title": "item5",
+    "description": "some desc",
+    "price": "4400"
+  },
+  {
+    "title": "item6",
+    "description": "some desc",
+    "price": "4400"
+  },
+  {
+    "title": "item7",
+    "description": "some desc",
+    "price": "4400"
+  },
+  {
+    "title": "item8",
+    "description": "some desc",
+    "price": "4400"
+  },
+  {
+    "title": "item9",
+    "description": "some desc",
+    "price": "4400"
+  },
+  {
+    "title": "item10",
+    "description": "some desc",
+    "price": "4400"
+  },
+  {
+    "title": "item11",
+    "description": "some desc",
+    "price": "4400"
+  },
+  {
+    "title": "item12",
+    "description": "some desc",
+    "price": "4400"
+  }
+]
